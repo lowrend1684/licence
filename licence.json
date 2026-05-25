@@ -1,9 +1,9 @@
 {
   "licenses": {
-    "1684-TEST-KEY-7777": {
+    "lowy": {
       "hwid": "64C9B6718B4E8DB4EBDB8D7CD450A0E9",
-      "expiry": "2026-06-30",
-      "plan": "30 Gunluk Uyelik"
+      "expiry": "Lifetime",
+      "plan": "x"
     },
     "nore": {
       "hwid": "9150C4756CE4B1D31E5F1BA8C4F9D5FB",
